@@ -85,7 +85,8 @@
                                         "HorizontalAlignment": "Right",
                                         "VerticalAlignment": "Center",
                                         "Foreground": "{StandingsPointsForeground}",
-                                        "Style": "PrimaryNumberStyle"
+                                        "Style": "PrimaryNumberStyle",
+                                        "FontName": "{FontNameBold}"
                                     }
                                 ],
                                 "Triggers": [
@@ -145,7 +146,7 @@
                                 "Source": "{Item.RaceMajorPositionString}",
                                 "HorizontalAlignment": "Left",
                                 "TextOptions": {
-                                    "FontName": "{FontNameBold}",
+                                    "FontName": "{FontNameItalic}",
                                     "FontSize": 34,
                                     "HorizontalAlignment": "Center",
                                     "Foreground": "{SeasonProgressPositionDefaultForeground}"

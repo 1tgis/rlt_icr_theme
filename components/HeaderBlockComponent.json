@@ -61,7 +61,7 @@
                             "VerticalAlignment": "Center",
                             "Source": "<subHeader>",
                             "FontName": "{FontNameWide}",
-                            "FontSize": 18
+                            "FontSize": 30
                         }
                     ]
                 }

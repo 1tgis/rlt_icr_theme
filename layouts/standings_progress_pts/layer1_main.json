@@ -85,7 +85,8 @@
                                         "HorizontalAlignment": "Right",
                                         "VerticalAlignment": "Center",
                                         "Foreground": "#FFFFFF",
-                                        "Style": "PrimaryNumberStyle"
+                                        "Style": "PrimaryNumberStyle",
+                                        "FontName": "{FontNameBold}"
                                     }
                                 ],
                                 "Triggers": [
@@ -144,7 +145,7 @@
                                 "Source": "{Item.PointsString}",
                                 "HorizontalAlignment": "Left",
                                 "TextOptions": {
-                                    "FontName": "{FontNameBold}",
+                                    "FontName": "{FontNameItalic}",
                                     "FontSize": 34,
                                     "HorizontalAlignment": "Center",
                                     "Foreground": "{SeasonProgressPointsForeground}"
